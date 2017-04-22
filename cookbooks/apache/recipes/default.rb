@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 # Install package httpd
 
-packege 'apache2' do
+package 'apache2' do
 	package_name 'httpd'
 	action :install
 end
